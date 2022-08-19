@@ -1,0 +1,97 @@
+function song() {
+    [
+        {
+            "id": 1,
+            "name": "Ave Maria",
+            "singer": "Lưu Ánh Loan",
+            "path": "./assets/music/Ave-Maria-Con-Dang-Loi-Luu-Anh-Loan-Vu-Hoang.mp3",
+            "image": "./assets/img/Ave-Maria.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "Ba vua đăng trình",
+            "singer": "Gia Ân",
+            "path": "./assets/music/Ba-vua-dang-trinh-Gia-An.mp3",
+            "image": "./assets/img/Ba-vua-dang-trinh.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Bài ca ngàn trùng",
+            "singer": "Ca đoàn Sao Mai",
+            "path": "./assets/music/BaiCaNganTrung-CaDoanSaoMai-2554135.mp3",
+            "image": "./assets/img/Bai-ca-ngan-trung.jpg"
+        },
+        {
+            "name": "Bài ca ngàn trùng",
+            "singer": "Hòa tấu",
+            "path": "./assets/music/BaiCaNhanChung-HoaTau-3217670.mp3",
+            "image": "./assets/img/Bai-ca-nhan-chung.jpg",
+            "id": 4
+        },
+        {
+            "name": "Bao la tình chúa",
+            "singer": "Gia Ân",
+            "path": "./assets/music/BaolatinhChua-GiaAn_bpam.mp3",
+            "image": "./assets/img/Bao-la-tinh-chua.jpg",
+            "id": 5
+        },
+        {
+            "id": 6,
+            "name": "Ave Maria",
+            "singer": "Lưu Ánh Loan",
+            "path": "./assets/music/Ave-Maria-Con-Dang-Loi-Luu-Anh-Loan-Vu-Hoang.mp3",
+            "image": "./assets/img/Ave-Maria.jpeg"
+        },
+        {
+            "id": 7,
+            "name": "Ave Maria",
+            "singer": "Lưu Ánh Loan",
+            "path": "./assets/music/Ave-Maria-Con-Dang-Loi-Luu-Anh-Loan-Vu-Hoang.mp3",
+            "image": "./assets/img/Ave-Maria.jpeg"
+        },
+        {
+            "id": 8,
+            "name": "Ave Maria",
+            "singer": "Lưu Ánh Loan",
+            "path": "./assets/music/Ave-Maria-Con-Dang-Loi-Luu-Anh-Loan-Vu-Hoang.mp3",
+            "image": "./assets/img/Ave-Maria.jpeg"
+        },
+        {
+            "id": 9,
+            "name": "Ave Maria",
+            "singer": "Lưu Ánh Loan",
+            "path": "./assets/music/Ave-Maria-Con-Dang-Loi-Luu-Anh-Loan-Vu-Hoang.mp3",
+            "image": "./assets/img/Ave-Maria.jpeg"
+        },
+        {
+            "id": 10,
+            "name": "Ave Maria",
+            "singer": "Lưu Ánh Loan",
+            "path": "./assets/music/Ave-Maria-Con-Dang-Loi-Luu-Anh-Loan-Vu-Hoang.mp3",
+            "image": "./assets/img/Ave-Maria.jpeg"
+        },
+        {
+            "id": 11,
+            "name": "Ave Maria",
+            "singer": "Lưu Ánh Loan",
+            "path": "./assets/music/Ave-Maria-Con-Dang-Loi-Luu-Anh-Loan-Vu-Hoang.mp3",
+            "image": "./assets/img/Ave-Maria.jpeg"
+        },
+        {
+            "id": 12,
+            "name": "Ave Maria",
+            "singer": "Lưu Ánh Loan",
+            "path": "./assets/music/Ave-Maria-Con-Dang-Loi-Luu-Anh-Loan-Vu-Hoang.mp3",
+            "image": "./assets/img/Ave-Maria.jpeg"
+        },
+        {
+            "id": 13,
+            "name": "Chính Chúa chọn con",
+            "singer": "Hoàng Thy",
+            "path": "./assets/music/ChinhChuaChonCon-HoangThy-5048231_hq.mp3",
+            "image": "./assets/img/Chinh-Chua-chon-con.jpg"
+        }
+    ]
+}
+
+export default song;
